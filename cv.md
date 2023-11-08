@@ -1,4 +1,5 @@
-# Nikolai Strom
+# Nikolai Strom  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Python+backend+developer;Programming+teacher)](https://git.io/typing-svg)
 
 ## Contact info:
 
